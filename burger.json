@@ -1,7 +1,7 @@
 [
   {
     bun: regular,
-    cheese: Pepper Jack,
+    cheese: Swiss,      
     patty: beef,
     condiment: {
       mayo: true,

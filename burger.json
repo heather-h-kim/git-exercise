@@ -1,7 +1,7 @@
 [
   {
     bun: regular,
-    cheese: American, 
+    cheese: Swiss,    
     patty: beef,
     condiment: {
       mayo: true,
